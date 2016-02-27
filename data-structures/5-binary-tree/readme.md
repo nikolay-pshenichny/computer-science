@@ -13,3 +13,6 @@ Binary tree can be traversed in the following ways:
 For binary search tree, In Order traversal will yield elements in the sorted order
 Post order traversal of a tree will return childred and then a parent, this can be used to return dependencies first and and parent -last
 
+
+
+http://visualgo.net/bst.html

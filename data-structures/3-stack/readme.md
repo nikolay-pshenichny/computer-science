@@ -9,3 +9,5 @@ If an Array is used as the internal storage, less memory is required.
 
 
 https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
+
+http://visualgo.net/list.html (select STACK from tabs)
