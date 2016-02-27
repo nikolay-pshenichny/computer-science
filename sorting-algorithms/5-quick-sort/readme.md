@@ -22,3 +22,6 @@ Space required:
 additional links:
 https://www.cs.auckland.ac.nz/software/AlgAnim/qsort.html
 https://www.cs.auckland.ac.nz/software/AlgAnim/qsort1a.html
+
+
+http://visualgo.net/sorting.html (select QUICK from tabs)
